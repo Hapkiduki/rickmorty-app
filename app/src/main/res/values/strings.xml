@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Characters</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+    <!-- Home Screen -->
+    <string name="first_location">First seen in:</string>
+    <string name="last_location">Last known location:</string>
+    <string name="specie">Specie:</string>
+    <string name="status">Status:</string>
+    <string name="gender">Gender:</string>
+
+</resources>
